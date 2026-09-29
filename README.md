@@ -25,6 +25,7 @@ Offline PCM WAV diagnostics: peak and RMS checks, potential clipping, silence de
 ### 🧪 [Software & UI Quality Lab](https://github.com/rresendizlivera-creator/software-ui-quality-lab)
 
 Responsive synthetic QA dashboard with case filtering, KPIs, keyboard-friendly controls, CSV export, and unit tests.  
+**[Live Demo — Explore the dashboard](https://rresendizlivera-creator.github.io/software-ui-quality-lab/)**  
 **Stack:** HTML · CSS · JavaScript · Node test runner
 
 ## Focus and tools
