@@ -3,34 +3,35 @@
 # Roberto Reséndiz Livera
 
 **Electronics and Communications Engineering · IPN**  
-**AI Quality Evaluation · Audio / TTS Evaluation · Software Testing**
+**AI Quality Evaluation · Audio / TTS Evaluation · Software & UI Testing**
 
-Based in Mexico · [Explore the audio lab](https://github.com/rresendizlivera-creator/audio-quality-analysis-lab) · [GitHub profile](https://github.com/rresendizlivera-creator)
+Based in Mexico · Independent engineering portfolio
+
+[Audio Quality Lab](https://github.com/rresendizlivera-creator/audio-quality-analysis-lab) · [Software & UI Quality Lab](https://github.com/rresendizlivera-creator/software-ui-quality-lab)
 
 </div>
 
 ---
 
-I focus on making technical quality checks clear, reproducible, and useful. My interests span AI response evaluation, speech and recording quality, software testing, HTML/UI review, and data analysis. This profile contains independent demonstration work built with original or synthetic material.
+I build independent, reproducible demonstrations of technical quality checks. My areas of focus include AI response evaluation, speech and recording analysis, test-case review, responsive HTML/UI, and data analysis.
 
-## Featured project
+## Featured projects
 
-### [Audio Quality Analysis Lab →](https://github.com/rresendizlivera-creator/audio-quality-analysis-lab)
-
-An offline Python tool for PCM WAV recordings. It measures peak and RMS levels, possible clipping, near-silent intervals, DC offset, and channel balance, then produces JSON results and a self-contained HTML report.
-
-[View the source](https://github.com/rresendizlivera-creator/audio-quality-analysis-lab) · [Read the setup guide](https://github.com/rresendizlivera-creator/audio-quality-analysis-lab#quick-start) · [See the demo report](https://github.com/rresendizlivera-creator/audio-quality-analysis-lab/blob/main/examples/demo-report.html)
+| Project | Demonstrates | Stack |
+| --- | --- | --- |
+| [🎧 Audio Quality Analysis Lab](https://github.com/rresendizlivera-creator/audio-quality-analysis-lab) | Offline PCM WAV diagnostics, peak/RMS checks, potential clipping, silence detection, JSON and HTML reports | Python, unittest |
+| [🧪 Software & UI Quality Lab](https://github.com/rresendizlivera-creator/software-ui-quality-lab) | Responsive synthetic QA dashboard, case filtering, KPIs, keyboard-friendly controls, CSV export and unit testing | HTML, CSS, JavaScript, Node test runner |
 
 ## Focus and tools
 
 - **AI quality:** structured response review and guideline-based evaluation.
 - **Audio / TTS:** objective recording checks and listening-focused assessment.
-- **Software testing:** functional checks, issue documentation, and HTML/UI review.
-- **Programming and analysis:** C/C++, Java, Python, and data analysis.
+- **Software testing:** functional checks, issue documentation and HTML/UI review.
+- **Programming and analysis:** C/C++, Java, Python, JavaScript and data analysis.
 - **Foundation:** Electronics and Communications Engineering at Instituto Politécnico Nacional (IPN).
 
 ## Working principles
 
-I value traceable findings, concise documentation, and realistic limits on automated checks. A signal metric can flag a recording for review; it cannot replace a human judgment of speech quality.
+I value traceable findings, concise documentation, explicit test limitations and reproducible checks. Automated signal metrics support — but never substitute for — human evaluation of speech quality.
 
-<sub>Portfolio projects are personal demonstrations. They contain no client recordings, confidential evaluation material, credentials, or proprietary guidelines.</sub>
+<sub>Portfolio projects are personal demonstrations using original or synthetic data. They contain no client recordings, confidential evaluation material, credentials or proprietary guidelines. The projects do not claim affiliation with any evaluation platform.</sub>
