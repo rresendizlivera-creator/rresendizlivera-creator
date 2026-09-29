@@ -17,10 +17,15 @@ I build independent, reproducible demonstrations of technical quality checks. My
 
 ## Featured projects
 
-| Project | Demonstrates | Stack |
-| --- | --- | --- |
-| [🎧 Audio Quality Analysis Lab](https://github.com/rresendizlivera-creator/audio-quality-analysis-lab) | Offline PCM WAV diagnostics, peak/RMS checks, potential clipping, silence detection, JSON and HTML reports | Python, unittest |
-| [🧪 Software & UI Quality Lab](https://github.com/rresendizlivera-creator/software-ui-quality-lab) | Responsive synthetic QA dashboard, case filtering, KPIs, keyboard-friendly controls, CSV export and unit testing | HTML, CSS, JavaScript, Node test runner |
+### 🎧 [Audio Quality Analysis Lab](https://github.com/rresendizlivera-creator/audio-quality-analysis-lab)
+
+Offline PCM WAV diagnostics: peak and RMS checks, potential clipping, silence detection, and JSON and HTML reports.  
+**Stack:** Python · unittest
+
+### 🧪 [Software & UI Quality Lab](https://github.com/rresendizlivera-creator/software-ui-quality-lab)
+
+Responsive synthetic QA dashboard with case filtering, KPIs, keyboard-friendly controls, CSV export, and unit tests.  
+**Stack:** HTML · CSS · JavaScript · Node test runner
 
 ## Focus and tools
 
